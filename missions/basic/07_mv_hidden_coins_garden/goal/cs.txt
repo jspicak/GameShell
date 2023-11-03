@@ -1,0 +1,27 @@
+Cíl mise
+========
+
+Sesbírej všechny mince skryté v zahradě u hradu a dej je do své
+truhly v chýši v lese.
+
+
+Doprovodný úkol
+---------------
+
+Naučit se používat tabelátor (Tab) k urychlení práce.
+
+
+Užitečné příkazy
+================
+
+ls -A
+  Výpis všech souborů v aktuálním adresáři, včetně skrytých
+  souborů (soubor je "skrytý", když jeho jméno začíná tečkou).
+
+Tab
+  Klávesa tabelátoru "dokončuje" jméno souboru či adresáře, pokud
+  je už napsaný začátek jeho názvu. Funguje jen v případě, že existuje
+  jen jedna možnost dokončení jména.
+
+Tab-Tab
+  Stisk tabelátoru dvakrát po sobě nabídne seznam všech možností.

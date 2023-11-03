@@ -1,0 +1,12 @@
+Cíl mise
+========
+
+Postav chýši ("Chyse") v lese a pak v ní vyrob truhlu ("Truhla").
+
+
+Užitečné příkazy
+================
+
+mkdir ADRESÁŘ
+  Vytvoř nový adresář uvnitř aktuálního adresáře (místa, kde jsi).
+  Poznámka: ``mkdir`` je zkratka pro "make directory" (vytvoř adresář).

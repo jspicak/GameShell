@@ -1,0 +1,37 @@
+Cíl mise
+========
+
+Dostaňte se na vrchol hlavní věže hradu.
+
+
+Užitečné příkazy
+================
+
+cd MÍSTO
+  Přesun na dané místo.
+  Move to the given location.
+  Poznámka: ``cd`` je zkratka pro "change directory" (změnit adresář).
+
+pwd
+  Ukaž celou cestu aktuálního místa.
+  Poznámka: ``pwd`` je zkratka pro "print working directory" (zobraz pracovní adresář).
+
+ls
+  Vypiš seznam míst, která jsou právě dostupná.
+  Poznámka: ``ls`` je zkratka pro "list" (seznam).
+
+gsh check
+  Kontrola, zda je cíl mise splněn.
+
+gsh reset
+  Restart mise od začátku.
+
+
+Remarks
+-------
+
+UPPERCASE words appearing in commands are meta-variables: you need 
+to replace them by appropriate (string) values.
+
+Most filesystems treat uppercase and lowercase characters 
+differently. Make sure you use the correct path.

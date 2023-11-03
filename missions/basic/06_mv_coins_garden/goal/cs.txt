@@ -1,0 +1,18 @@
+Cíl mise
+========
+
+Sesbírej všechny mince, které najdeš v zahradě u hradu, a dej
+je do své truhly v chýši v lese.
+
+
+Užitečné příkazy
+================
+
+mv SOUBOR1 SOUBOR2 ... SOUBORn ADRESÁŘ
+  Přesune soubory do adresáře.
+  Poznámka: ``mv`` je zkratka od "move" (posunout, přesunout).
+
+~
+  Znak "~" je zkrácením hlavního / domovského adresáře.
+  Příklad: Ať jsi v jakémkoliv adresáři, ``~/Hospoda`` znamená
+  adresář (nebo soubor) "Hospoda" v hlavním adresáři.

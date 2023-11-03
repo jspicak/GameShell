@@ -1,0 +1,297 @@
+#, sh-format
+msgid   "$GSH_ROOT/i18n/gameshell-HELP/en.txt"
+msgstr  "$GSH_ROOT/i18n/gameshell-HELP/cs.txt"
+
+#, sh-format
+msgid   "$GSH_ROOT/i18n/gameshell-help/en.txt"
+msgstr  "$GSH_ROOT/i18n/gameshell-help/cs.txt"
+
+#, sh-format
+msgid   "$GSH_ROOT/i18n/gameshell-init-msg-short/en.txt"
+msgstr  "$GSH_ROOT/i18n/gameshell-init-msg-short/cs.txt"
+
+#, sh-format
+msgid   "$GSH_ROOT/i18n/gameshell-init-msg/en.txt"
+msgstr  "$GSH_ROOT/i18n/gameshell-init-msg/cs.txt"
+
+#, sh-format
+msgid   "$GSH_ROOT/i18n/gameshell-welcome/en.txt"
+msgstr  "$GSH_ROOT/i18n/gameshell-welcome/en.txt"
+
+#, sh-format
+msgid   "$GSH_ROOT/i18n/start-help/en.txt"
+msgstr  "$GSH_ROOT/i18n/start-help/cs.txt"
+
+#, sh-format
+msgid   "$MISSION_DIR/goal/en.txt"
+msgstr  "$MISSION_DIR/goal/cs.txt"
+
+#, sh-format
+msgid   "$MISSION_DIR/skip/en.txt"
+msgstr  "$MISSION_DIR/skip/cs.txt"
+
+#, sh-format
+msgid   "$MISSION_DIR/treasure-msg/en.txt"
+msgstr  "$MISSION_DIR/treasure-msg/cs.txt"
+
+#, sh-format
+msgid   "$nb_failed_tests failures out of $nb_tests tests"
+msgstr  "$nb_failed_tests chyb z celkem $nb_tests testů"
+
+#, sh-format
+msgid   "$nb_tests successful tests"
+msgstr  "$nb_tests úspěšných testů"
+
+#, awk-format
+msgid   "%d authentification failure"
+msgid_plural    "%d authentification failures"
+msgstr[0]       "%d chyba ověření"
+msgstr[1]       "%d chyb ověření"
+
+#, awk-format
+msgid   "%d mission cancelled for missing dependencies:"
+msgid_plural    "%d missions cancelled for missing dependencies:"
+msgstr[0]       "%d mise zrušena kvůli chybějícím závislostem:"
+msgstr[1]       "%d mise zrušeny kvůli chybějícím závislostem:"
+
+#, awk-format
+msgid   "%d mission passed using the auto.sh script:"
+msgid_plural    "%d missions passed using the auto.sh script:"
+msgstr[0]       "%d mission prošla za pomoci skriptu auto.sh:"
+msgstr[1]       "%d mission prošly za pomoci skriptu auto.sh:"
+
+#, awk-format
+msgid   "%d mission passed:"
+msgid_plural    "%d missions passed:"
+msgstr[0]       "%d mise prošla:"
+msgstr[1]       "%d mise prošly:"
+
+#, awk-format
+msgid   "%d mission skipped:"
+msgid_plural    "%d missions skipped:"
+msgstr[0]       "%d mise vynechána:"
+msgstr[1]       "%d mise vynechány:"
+
+msgid   "AUTOMATICALLY GENERATED ON STARTUP -- DO NOT MODIFY"
+msgstr  "AUTOMATICKY GENEROVÁNO PŘI STARTU -- NEMĚŇTE"
+
+#, sh-format
+msgid   "Congratulations, mission $MISSION_NB has been successfully completed!"
+msgstr  "Gratuluji, mise $MISSION_NB byla úspěšně dokončena!"
+
+#, sh-format
+msgid   "Error: _gsh_assert_check only accept 'true' and 'false' as argument."
+msgstr  "Chyba: _gsh_assert_check akceptuje jako argument pouze 'true' nebo 'false'."
+
+msgid   "Error: a least one base function is not working properly.\n"
+        "Aborting!"
+msgstr  "Chyba: nejméně jedna ze základních funkcí nefunguje správně.\n"
+        "Konec!"
+
+#, sh-format
+msgid   "Error: couldn't get mission number $MISSION_NB (from $fn_name)"
+msgstr  "Chyba: nelze přečíst číslo mise $MISSION_NB (z $fn_name)"
+
+#, sh-format
+msgid   "Error: invalid option: '-$OPTARG'"
+msgstr  "Chyba: neznámá volba: '-$OPTARG'"
+
+#, sh-format
+msgid   "Error: mission $MISSION_NB doesn't exist!"
+msgstr  "Chyba: mise $MISSION_NB neexistuje!"
+
+#, sh-format
+msgid   "Error: mission $MISSION_NB doesn't have a test script."
+msgstr  "Chyba: mise $MISSION_NB nemá testovací skript."
+
+#, sh-format
+msgid   "Error: mission $MISSION_NB doesn't have an auto script."
+msgstr  "Chyba: mise $MISSION_NB nemá auto skript."
+
+#, sh-format
+msgid   "Error: mission $MISSION_NB is cancelled because some dependencies are not met."
+msgstr  "Chyba: mise $MISSION_NB je zrušena, protože nejsou splněny některé závislosti."
+
+msgid   "Error: no mission was found!\n"
+        "Aborting."
+msgstr  "Chyba: nenalezena žádná mise!\n"
+        "Konec."
+
+msgid   "Error: the 'goto' command requires a mission number as argument."
+msgstr  "Chyba: příkaz 'goto' očekává číslo mise jako argument."
+
+msgid   "Error: the command 'gsh hardreset' shouldn't be run inside a subshell!"
+msgstr  "Chyba: příkaz 'gsh hardreset' nesmí být spuštěn v subshellu!"
+
+msgid   "Error: the command 'gsh reset' shouldn't be run inside a subshell!"
+msgstr  "Chyba: příkaz 'gsh reset' nesmí být spuštěn v subshellu!"
+
+msgid   "Error: this option is only available from an executable archive!"
+msgstr  "Chyba: tato volba je dostupná pouze ve spustitelném balíčku!"
+
+#, sh-format
+msgid   "Error: unknown gsh command '$cmd'.\n"
+        "Use one of the following commands:"
+msgstr  "Chyba: neznámý příkaz gsh '$cmd'.\n"
+        "Použijte jednu z těchto možností:"
+
+#, sh-format
+msgid   "Error: unknown shell '$SHELL'.\n"
+        "Run GameShell with either bash or zsh."
+msgstr  "Chyba: neznámý shell '$SHELL'.\n"
+        "GameShell spusťte v bash nebo zsh."
+
+msgid   "Error: wrong password."
+msgstr  "Chyba: nesprávné heslo."
+
+msgid   "Error: you are not allowed to run this command."
+msgstr  "Chyba: nemáte oprávnění spustit tento příkaz."
+
+msgid   "Error: you shouldn't run Gameshell as root!"
+msgstr  "Chyba: nespouštějte Gameshell jako root!"
+
+msgid   "Is this information correct? [Y/n]"
+msgstr  "Je tato informace správně? [Y/n]"
+
+#, sh-format
+msgid   "Mission $MISSION_NB has been cancelled."
+msgstr  "Mise $MISSION_NB byla zrušena."
+
+msgid   "N"
+msgstr  "N"
+
+msgid   "Player's email:"
+msgstr  "Hráčův email:"
+
+msgid   "Player's name:"
+msgstr  "Hráčovo jméno:"
+
+msgid   "Press Enter to continue."
+msgstr  "Pro pokračování stiskněte Enter."
+
+msgid   "START OF COMMANDS HISTORY"
+msgstr  "ZAČÁTEK HISTORIE PŘÍKAZŮ"
+
+#, sh-format
+msgid   "Sorry, mission $MISSION_NB hasn't been completed."
+msgstr  "Lituji, ale mise $MISSION_NB nebyla dokončena."
+
+#, sh-format
+msgid   "The directory $GSH_CONFIG contains meta-data from a previous game.\n"
+        "Do you want to remove it and start a new game? [y/N]"
+msgstr  "Adresář $GSH_CONFIG obsahuje meta-data z předešlé hry.\n"
+        "Chcete jej odstranit a zahájit novou hru? [y/N]"
+
+msgid   "The latest version of Gameshell is available at"
+msgstr  "Poslední verze GameShell je dostupná v"
+
+msgid   "There are stopped jobs in your session.\n"
+        "Those processes will be terminated.\n"
+        "You can get the list of those jobs with\n"
+        "    $ jobs\n"
+        "Do you still want to quit? [y/n]"
+msgstr  "Ve vašem sezení máte neukončené procesy.\n"
+        "Tyto procesy budou ukončeny.\n"
+        "Jejich seznam získáte příkazem\n"
+        "    $ jobs\n"
+        "Opravdu chcete skončit? [y/n]"
+
+msgid   "Warning: the file 'treasure.sh' was sourced from a subshell.\n"
+        "You should use the command\n"
+        "  $ gsh reset"
+msgstr  "Upozornění: soubor 'treasure.sh' byl použit ze subshellu.\n"
+        "Je třeba použít příkaz\n"
+        "  $ gsh reset"
+
+msgid   "Warning: this mission was initialized in a subshell.\n"
+        "Run the command\n"
+        "    $ gsh reset\n"
+        "to make sure the mission is initialized properly."
+msgstr  "Upozornění: tato mise byla spuštěna v subshellu.\n"
+        "Použijte příkaz\n"
+        "    $ gsh reset\n"
+        "abyste misi správně inicializovali."
+
+msgid   "While you are waiting, a bat flies by..."
+msgstr  "Zatímco čekáte, proletěl netopýr..."
+
+msgid   "While you are waiting, a caterpillar crawls by..."
+msgstr  "Zatímco čekáte, prolezla okolo housenka..."
+
+msgid   "While you are waiting, a centipede crawls by..."
+msgstr  "Zatímco čekáte, prolezla okolo stonožka..."
+
+msgid   "While you are waiting, a duck swims by..."
+msgstr  "Zatímco čekáte, proplula okolo kachna..."
+
+msgid   "While you are waiting, a fish swims by..."
+msgstr  "Zatímco čekáte, proplula okolo ryba..."
+
+msgid   "While you are waiting, a large fish swims by..."
+msgstr  "Zatímco čekáte, proplula okolo velká ryba..."
+
+msgid   "While you are waiting, a snail goes by..."
+msgstr  "Zatímco čekáte, polezl okolo šnek..."
+
+msgid   "While you are waiting, a snake slithers by..."
+msgstr  "Zatímco čekáte, proplazil se okolo had..."
+
+msgid   "While you are waiting, a spider crawls by..."
+msgstr  "Zatímco čekáte, prolezl okolo pavouk..."
+
+msgid   "While you are waiting, an ant crawls by..."
+msgstr  "Zatímco čekáte, prolezl okolo mravenec..."
+
+msgid   "While you are waiting, you see a fish swimming in circles..."
+msgstr  "Zatímco čekáte, vidíte rybu plavat v kruzích..."
+
+msgid   "Y"
+msgstr  "Y"
+
+msgid   "You left GameShell's directory structure. Use\n"
+        "    $ cd\n"
+        "to go back to the GameShell's starting directory."
+msgstr  "Opustili jste adresářovou strukturu GameShell. Použijte\n"
+        "    $ cd\n"
+        "pro návrat do výchozího adresáře GameShell."
+
+msgid   "[Press space to continue, q to quit\\.]"
+msgstr  "[Stiskněte mezerník pro pokračování, q pro ukončení\\.]"
+
+msgid   "cancelled"
+msgstr  "zrušeno"
+
+msgid   "completed"
+msgstr  "dokončeno"
+
+msgid   "days"
+msgstr  "dní"
+
+msgid   "failed"
+msgstr  "neúspěšně"
+
+#, awk-format
+msgid   "game time: %s in %d session"
+msgid_plural    "game time: %s in %d sessions"
+msgstr[0]       "čas ve hře: %s za %d sezení"
+msgstr[1]       "čas ve hře: %s za %d sezení"
+
+msgid   "n"
+msgstr  "n"
+
+msgid   "password:"
+msgstr  "heslo:"
+
+msgid   "skipped"
+msgstr  "přeskočeno"
+
+#, sh-format
+msgid   "test $nb_tests failed"
+msgstr  "test $nb_tests selhal"
+
+#, awk-format
+msgid   "total time: %s"
+msgstr  "celkový čas: %s"
+
+msgid   "y"
+msgstr  "y"

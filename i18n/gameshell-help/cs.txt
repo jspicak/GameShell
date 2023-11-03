@@ -1,0 +1,19 @@
+Příkazy prostředí GameShell
+===========================
+
+gsh check
+  ověří, zda byl cíl mise splněn či nikoliv
+  
+gsh exit   /   Control-d
+  ukončit GameShell
+  (pokračovat od aktuální mise můžete spuštěním
+  GameShell s parametrem "-C")
+
+gsh goal
+  zobraz cíl aktuální mise
+
+gsh help
+  kratší nápověda
+
+gsh reset
+  obnovit aktuální misi

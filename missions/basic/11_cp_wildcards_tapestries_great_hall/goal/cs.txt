@@ -1,0 +1,24 @@
+Cíl mise
+========
+
+Gobelíny ve velké síni jsou také moc hezké. Okopíruj
+si je do své truhly.
+
+
+Užitečné příkazy
+================
+
+cp SOUBOR1 SOUBOR2 ... SOUBORn ADRESÁŘ
+  Kopie souborů do adresáře.
+  Poznámka: ``cp`` zkratka pro "copy" (kopírovat).
+
+
+Vzory v shellu
+==============
+
+*
+  Symbol "*" znamená jakoukoliv posloupnost jakýchkoliv znaků
+  (včetně mezer).
+
+?
+  Symbol "?" zastupuje jakýkoliv jeden znak.

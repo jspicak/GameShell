@@ -1,0 +1,14 @@
+Cíl mise
+========
+
+Zalíbily se ti čtyři vlajky ve velké síni hradu. Protože krádež by
+neprošla bez následků, dej si do své truhly kopii (stejné jméno,
+stejný obsah) každé z nich.
+
+
+Užitečné příkazy
+================
+
+cp SOUBOR ADRESÁŘ
+  Kopírování souboru do adresáře.
+  Poznámka: ``cp`` zkratka pro "copy" (kopírovat).

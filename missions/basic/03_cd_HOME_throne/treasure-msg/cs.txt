@@ -1,0 +1,4 @@
+Skvělá práce!!!
+
+Od teď už bude aktuální umístění zobrazováno
+před místem, kde se zadávají příkazy.

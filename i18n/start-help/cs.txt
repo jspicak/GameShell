@@ -1,0 +1,38 @@
+volby:
+  -h      tento text
+  -V      vypiš verzi
+
+  -P      jmenný mód: ptej se na jméno / email uživatele
+  -A      anonymní mód
+  -d      mód ladění
+  -D      mód ladění s podrobnějším výpisem
+
+  -C      pokračuj ve hře (pokud existuje rozehraná)
+  -R      obnov hru (reset)
+  -F      nehledej novější uložené hry, použij zvolený archiv
+
+  -G      nepoužívej překlad (vše bude v angličtině)
+  -L ...  nastav proměnnou LANGUAGE (např: -L fr:it:en)
+          mimo GNU sytémy nastav LC_MESSAGES
+
+  --simple-savefiles
+          soubory s uloženým postupem budou mít příponu "-save",
+          takže přepisují předešlý postup
+  --index-savefiles
+          soubory s uloženým postupem budou číslované, takže zůstanou
+          všechny zachovány
+  --overwrite-savefiles
+          soubory s uloženým postupem přepíší začátek GameShell
+          (pro obnovu lze použít volbu -R, která zahájí hru od začátku)
+
+  -B      použij bash
+  -Z      použij zsh
+
+  -q      tichý mód: nevypisuj informační zprávy
+  -n      černobílý mód: nepoužívej barvy
+  -c ...  pošli příkaz (pro ladění)
+
+  -U      stáhni poslední verzi GameShell (vyžaduje přístup k internetu)
+  -X      jen rozbal archiv tgz
+  -K      při ukončení nemaž pomocný adresář GameShell
+

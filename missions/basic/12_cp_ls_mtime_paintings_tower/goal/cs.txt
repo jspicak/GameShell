@@ -1,0 +1,23 @@
+Cíl mise
+========
+
+Jak jsi tak chodil po prvním patře hlavní věže hradu, zaujaly
+tě nádherné obrazy na zdech. Přidej do své truhly kopii 
+nejstaršího z nich.
+
+
+Doplňkový úkol
+--------------
+
+Věnuj chvilku obdivování krásy obrazů.
+
+
+Užitečné příkazy
+================
+
+ls -l
+  Výpis souborů v aktuálním adresáři spolu s dalšími informacemi
+  včetně data poslední změny (last modification).
+
+cat SOUBOR
+  Zobrazí obsah souboru.

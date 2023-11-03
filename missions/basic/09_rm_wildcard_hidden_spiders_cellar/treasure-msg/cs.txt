@@ -1,0 +1,4 @@
+Výborně !
+
+Od teď bude příkaz ``ls`` vypisovat znak "/" za
+názvy adresářů.

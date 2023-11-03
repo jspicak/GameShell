@@ -1,0 +1,56 @@
+msgid   ""
+msgstr  "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
+#, sh-format
+msgid   "$GSH_HOME/Forest/Hut/Chest"
+msgstr  "$GSH_HOME/Les/Chyse/Truhla"
+
+#, sh-format
+msgid   "$GSH_HOME/Garden"
+msgstr  "$GSH_HOME/Zahrada"
+
+# path for the text file containing the goal
+msgid   "$MISSION_DIR/goal/en.txt"
+msgstr  "$MISSION_DIR/goal/cs.txt"
+
+# path for the text file containing the skip message
+msgid   "$MISSION_DIR/skip/en.txt"
+msgstr  "$MISSION_DIR/skip/cs.txt"
+
+# path for the text file containing the treasure message
+msgid   "$MISSION_DIR/treasure-msg/en.txt"
+msgstr  "$MISSION_DIR/treasure-msg/cs.txt"
+
+#, sh-format
+msgid   "The coin '$coin_name...' has a wrong file name..."
+msgstr  "Mince '$coin_name...' má špatné jméno souboru..."
+
+#, sh-format
+msgid   "The coin '$coin_name...' has been tampered with..."
+msgstr  "S mincí '$coin_name...' bylo manipulováno..."
+
+#, sh-format
+msgid   "The coin '$coin_name...' is still in the garden!"
+msgstr  "Mince '$coin_name...' je stále v zahradě!"
+
+#, sh-format
+msgid   "There are several '$coin_name...' in the garden!"
+msgstr  "V zahradě jsou stále mince '$coin_name...'!"
+
+#, sh-format
+msgid   "There are several '$coin_name...' in your chest!"
+msgstr  "V truhle je několik mincí '$coin_name...'!"
+
+#, sh-format
+msgid   "There is no '$coin_name...' in your chest!"
+msgstr  "V truhle nejsou mince '$coin_name...'!"
+
+msgid   "chest"
+msgstr  "Truhla"
+
+msgid   "coin"
+msgstr  "mince"
+
+msgid   "hut"
+msgstr  "Chyse"

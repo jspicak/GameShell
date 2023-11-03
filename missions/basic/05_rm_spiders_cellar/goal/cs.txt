@@ -1,0 +1,14 @@
+Cíl mise
+========
+
+Běž zpátky do sklepa a zbavte se všech pavouků. Netopýry nech
+na pokoji: jsou zobrazeni na hradním erbu a říká se, že přinášejí
+štěstí.
+
+
+Užitečné příkazy
+================
+
+rm SOUBOR1 SOUBOR2 ... SOUBORn
+  Odstranit soubory (nevratně).
+  Poznámka: ``rm`` se zkratka pro "remove" (odstranit).

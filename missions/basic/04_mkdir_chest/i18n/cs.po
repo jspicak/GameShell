@@ -1,0 +1,44 @@
+msgid   ""
+msgstr  "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
+#, sh-format
+msgid   "$GSH_HOME/Forest"
+msgstr  "$GSH_HOME/Les"
+
+# path for the text file containing the goal
+msgid   "$MISSION_DIR/goal/en.txt"
+msgstr  "$MISSION_DIR/goal/cs.txt"
+
+# path for the text file containing the skip message
+msgid   "$MISSION_DIR/skip/en.txt"
+msgstr  "$MISSION_DIR/skip/cs.txt"
+
+# path for the text file containing the treasure message
+msgid   "$MISSION_DIR/treasure-msg/en.txt"
+msgstr  "$MISSION_DIR/treasure-msg/cs.txt"
+
+msgid   "Chest"
+msgstr  "Truhla"
+
+msgid   "Hut"
+msgstr  "Chyse"
+
+#, sh-format
+msgid   "The $dir_name directory does not exist!"
+msgstr  "Adresář $dir_name neexistuje!"
+
+msgid   "You are back at the initial directory."
+msgstr  "Jsi zpět v základním adresáři."
+
+msgid   "You built too many chests in your hut!"
+msgstr  "V chýši jsi vyrobil příliš mnoho truhel!"
+
+msgid   "You built too many huts in the forest!"
+msgstr  "V lese jsi postavil příliš mnoho chýší!"
+
+msgid   "You did not build a chest in your hut!"
+msgstr  "V chýši jsi nevyrobil truhlu!"
+
+msgid   "You did not build a hut in the forest!"
+msgstr  "V lese jsi nepostavil chýši!"

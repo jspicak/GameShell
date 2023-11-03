@@ -1,0 +1,3 @@
+Příkaz
+    $ gsh help
+vypíše seznam všech voleb "gsh".

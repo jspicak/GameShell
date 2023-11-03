@@ -1,0 +1,23 @@
+Cíl mise
+========
+
+Pavouci se poučili a našli způsob, jak se schovat. Zbav se 
+všech pavouků ve sklepě a netopýry přitom nech na pokoji.
+
+
+Vzory v shellu
+==============
+
+*
+  Symbol "*" znamená jakoukoliv posloupnost jakýchkoliv znaků
+  (včetně mezer).
+
+?
+  Symbol "?" zastupuje jakýkoliv jeden znak.
+
+
+Poznámka
+--------
+
+Zástupné symboly "*" a "?" nelze použít pro skryté soubory, musíte
+na začátek vzoru napsat tečku (například .*).

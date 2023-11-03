@@ -1,0 +1,11 @@
+Příkazem
+    $ gsh goal
+zobrazíte cíl svojí první mise.
+
+Příkazem
+    $ gsh check
+ověříte, jestli jste splnili cíl mise.
+
+Příkaz
+    $ gsh help
+zobrazí seznam všech dostupných voleb gsh.

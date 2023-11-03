@@ -1,0 +1,20 @@
+Vítejte v GameShell!
+
+Používání a správa počítače s operačním systémem typu Unix (tedy
+Linux, BSD nebo macOS) vyžaduje používání příkazové řádky, rozhraní,
+kterému se říká "shell". V této hře se naučíte shell používat
+plněním různých úkolů (misí), které vás naučí základní úlohy jako:
+  - vytváření adresářů,
+  - vytváření, prohlížení a změny souborů,
+  - hledání souborů podle různých kritérií,
+  - spouštění a zastavování programů,
+  - a další.
+
+
+V průběhu dobrodružství navštívíte různá místa, potkáte se s lidmi
+a budete hledat rozličné věci. Nezapomeňte však, že se vždy jedná
+o běžné adresáře, programy a soubory (často s náhodným obsahem).
+Takže například:
+  - "postavit chýši" znamená vytvořit adresář s názvem "Chýše",
+  - a "vložit minci do bedny" znamená přesunout soubor s názvem
+    "mince" do adresáře s názvem "Bedna".

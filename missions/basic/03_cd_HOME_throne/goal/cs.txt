@@ -1,0 +1,29 @@
+Cíl mise
+========
+
+Vrať se zpátky na začátek a pak běž do trůnního sálu za pomoci
+pouhých dvou příkazů.
+
+Poznámka
+--------
+
+Můžete použít libovolné množství příkazů, ale aby byl cíl mise
+splněn a byla uznána za absolvovanou, musí být splněny tyto podmínky:
+  - předminulý příkaz míří na začátek,
+  - minulý příkaz míří přímo do trůnního sálu.
+
+Užitečné příkazy
+================
+
+cd
+  Přesun na výchozí pozici (začátek).
+
+cd MÍSTO1/MÍSTO2/MÍSTO3
+  Několik kroků v jednom příkazu.
+
+
+Poznámka
+--------
+
+Slova VELKÝMI PÍSMENY v příkazech jsou místa, místo kterých
+máte doplnit správné hodnoty (texty).

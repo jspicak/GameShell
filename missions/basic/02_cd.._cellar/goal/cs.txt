@@ -1,0 +1,25 @@
+Cíl mise
+========
+
+Běž do hradního sklepa.
+
+
+Vedlejší úkol
+-------------
+
+Porozumět rozdílu mezi ``cd -`` and ``cd ..``.
+
+
+Užitečné příkazy
+================
+
+cd -
+  Skok na místo, na kterém jsi byl před posledním pohybem (cd).
+
+cd ..
+  Skok do nadřízeného adresáře (jeden krok zpět v cestě k aktuálnímu
+  místu).
+
+pwd
+  Zobraz celou cestu k aktuálnímu místu.
+
